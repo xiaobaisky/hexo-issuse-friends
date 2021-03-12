@@ -4,7 +4,7 @@ setting:
     ssl: false # ssl设置
 
   gitee_friends_links: # gitee友链配置
-    enable: true
+    enable: false
     owner: xaoxuu
     repo: friends
     state: open
@@ -12,7 +12,7 @@ setting:
 
   github_friends_links: # github友链配置
     enable: true
-    owner: xaoxuu
-    repo: friends
+    owner: xiaobaisky
+    repo: myblog
     state: open
     label: active # none关闭功能
